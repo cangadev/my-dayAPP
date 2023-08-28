@@ -11,7 +11,7 @@ mark task as done.<br><br>
 So, did you like my-dayApp?<br>
 leave a star and follow me.<br><br>
 
-========== pt =========
+========== pt =========<br>
 My-day app é uma aplicação criada com html-css-javaScript, para gestão de tarefas diárias.<br>
 Funcionalidades:<br><br>
 Criar tarefas diárias.<br>
