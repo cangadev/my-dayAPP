@@ -1,0 +1,18 @@
+
+
+.containerTask{
+    width: 50%;
+    background-color: #1f5f8bb3;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 20px 15px;
+}
+h2{
+    font-weight: 400;
+}
+.containerTask p{
+    padding: 15px 0px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #f1f1f1;
+}
