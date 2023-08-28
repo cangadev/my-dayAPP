@@ -6,6 +6,9 @@ Create daily tasks.<br>
 List daily tasks.<br>
 Change task description.<br>
 delete task.<br>
-mark task as done.<br>
+mark task as done.<br><br>
+
+So, did you like my-dayApp?<br>
+leave a star and follow me.
 
 
